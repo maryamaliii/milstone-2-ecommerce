@@ -102,7 +102,7 @@ export default function Home() {
       {/* Shop Now Button */}
       <div className="flex justify-center mt-12 mb-16 px-4">
         <button className="bg-black text-white font-serif rounded-full px-6 py-3 text-lg sm:text-xl hover:bg-gray-800 transition">
-          <Link href="/products">Shop Now</Link>
+          <Link href="/product">Shop Now</Link>
         </button>
       </div>
     </main>
